@@ -1,5 +1,7 @@
 # Fibonacci Sequence Calculator
 
+Brought to life by Shrivardhan Boini
+
 This Python program calculates and displays the Fibonacci sequence up to the `n`-th term, where `n` is provided by the user. It also provides an option to either display the entire Fibonacci sequence or just the `n`-th term. Additionally, the program measures and visualizes the time taken to compute each Fibonacci term using a graph created with **Matplotlib**.
 
 
