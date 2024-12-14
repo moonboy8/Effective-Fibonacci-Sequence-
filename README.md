@@ -42,7 +42,7 @@ Term 8: 13
 Term 9: 21
 Term 10: 34
 Time taken: 0.000003 seconds
----
+
 ## Issues
 
 ### Large Fibonacci Numbers
@@ -56,4 +56,3 @@ Printing a very large number or a long sequence of Fibonacci numbers can take a 
 
 ### User Input Errors
 The program assumes that the user enters valid integers for the term number (`n`). Invalid inputs (such as non-numeric values) are not handled in this version of the program and may result in unexpected behavior or crashes.
-
