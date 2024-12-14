@@ -57,3 +57,12 @@ Term 9: 21
 Term 10: 34
 Time taken: 0.000003 seconds
 
+
+-------------------------------------------------------------------------------------------------------
+
+
+Which term of the Fibonacci sequence do you want to find?: 10
+Do you want to list out all the numbers (1) or do you want just the nth number (2): 2
+Fibonacci number at position 10: 34
+Time taken: 0.000002 seconds
+
