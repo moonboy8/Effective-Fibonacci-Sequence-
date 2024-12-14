@@ -42,20 +42,3 @@ Term 8: 13
 Term 9: 21
 Term 10: 34
 Time taken: 0.000003 seconds
-
-
-
-## Issues
-
-### Large Fibonacci Numbers
-- The program's performance can degrade significantly for very large values of `n` due to the rapid growth of Fibonacci numbers. Computing the Fibonacci numbers for `n` greater than 10,000 can take considerable time and memory, especially if printing all terms is selected.
-  
-### Integer Overflow
-- While Python can handle arbitrarily large integers, the Fibonacci sequence grows exponentially. For extremely large values of `n`, the result can be a number with millions of digits, causing a slowdown in calculations and possible memory constraints.
-
-### Time Limit for Displaying Results
-- Printing a very large number or a long sequence of Fibonacci numbers can take a significant amount of time, especially if the user chooses to display all terms. This might lead to a long wait before results are shown.
-
-### User Input Errors
-- The program assumes that the user enters valid integers for the term number (`n`). Invalid inputs (such as non-numeric values) are not handled in this version of the program, and may result in unexpected behavior or crashes.
-
