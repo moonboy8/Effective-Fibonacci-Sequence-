@@ -42,7 +42,7 @@ Term 8: 13
 Term 9: 21
 Term 10: 34
 Time taken: 0.000003 seconds
-
+---
 ## Issues
 
 ### Large Fibonacci Numbers
