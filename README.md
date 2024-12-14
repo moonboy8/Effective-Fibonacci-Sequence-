@@ -1,6 +1,7 @@
 # Fibonacci Sequence Calculator
 
-This Python program allows you to calculate and display the Fibonacci sequence up to the `n`-th term, where `n` is provided by the user. The program also gives the option to either display the entire Fibonacci sequence or just the `n`-th term. It supports large Fibonacci numbers by allowing Python's `int` type to handle large values through the configuration of `sys.set_int_max_str_digits`.
+This Python program efficiently calculates and displays the Fibonacci sequence up to any term number, `n`, provided by the user. It offers flexibility by allowing you to either view the entire sequence or focus on just the value of the `n`-th term. The program is designed to handle large Fibonacci numbers seamlessly, leveraging Python's powerful `int` type, which ensures accurate results even for very large values.
+
 
 ## Features
 - Calculate the Fibonacci sequence up to any term number `n`.
